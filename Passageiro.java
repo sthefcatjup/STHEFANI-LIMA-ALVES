@@ -1,4 +1,4 @@
-PassageiroMesmo.java 
+Passageiro.java 
 
 
 public class Passageiro extends Uber{
