@@ -1,12 +1,6 @@
 PassageiroMesmo.java 
 
 
-Obs: Eu troquei o nome Teste.java no outro arquivo
-Passageiro.java
-
-
-
-
 public class Passageiro extends Uber{
     //subclasse da Classe Uber
     private int idade;
